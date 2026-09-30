@@ -1,28 +1,12 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# PyInstaller / Distribution
-build/
-dist/
-
-# Node / Vite artifacts
 node_modules/
 .vite/
-package-lock.json
-
-# Scratch logs
-Converts
-Extrudes
-
-# Editor / OS
-.vscode/
-.idea/
-*.lnk
-Thumbs.db
-Desktop.ini
-
-# Output canvas exports (user generated)
+dist/
+build/
+__pycache__/
+*.pyc
 saved_canvas/*.png
 !saved_canvas/.gitkeep
+.vscode/
+Converts
+Extrudes
+package-lock.json
